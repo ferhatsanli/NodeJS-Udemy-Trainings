@@ -1,0 +1,2 @@
+<<< package.json >>>
+"start-server" >> to run this script, you have to use "npm run start-server"
